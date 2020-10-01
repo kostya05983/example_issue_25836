@@ -1,0 +1,10 @@
+/.idea
+/out
+/*/out
+*.iml
+
+/.gradle
+/build
+/*/build
+/*/*/build
+/docker-build
